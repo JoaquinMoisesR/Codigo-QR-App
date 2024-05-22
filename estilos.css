@@ -53,3 +53,10 @@ body {
 	justify-content: center;
 	padding: 40px 0;
 }
+.enlace {
+	display: flex;
+	justify-content: center;
+	padding-top: 50px;
+	font-size: 35px;
+	color: rgb(133, 12, 113);
+}
